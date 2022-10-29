@@ -4,5 +4,5 @@
 <img src="fireshoot.png">
 Посмотреть тест игры можно на видео иkи по ссылке <a href="https://codepen.io/unnastasya/pen/qBKdzMj">Посмотреть</a>
 <video>
-<source src="video.mov">
+<source src="video.mp4">
 </video>
